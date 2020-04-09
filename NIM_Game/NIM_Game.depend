@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1586360865 source:d:\work\c course\c codes\nim_game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"NIM_Game.h"
+
+1586360466 d:\work\c course\c codes\nim_game\nim_game.h
+
+1586361753 source:d:\work\c course\c codes\nim_game\nim_game.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<ctype.h>
+	"NIM_Game.h"
+
